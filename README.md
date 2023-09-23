@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JUNAID
 - 👀 I’m interested in COOKING
-- 🌱 I’m currently learning HTML,CSS
+- 🌱 I’m intermediate in HTML,CSS, SpringBoot
 - 💞️ I’m looking to collaborate on WEB DEVOLEPMENT
 - 📫 reach me ON +918590819731
 
