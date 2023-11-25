@@ -1,8 +1,4 @@
-- 👋 Hi, I’m JUNAID
-- 👀 I’m interested in COOKING
-- 🌱 I’m intermediate in HTML,CSS,SpringBoot
-- 💞️ I’m looking to collaborate on WEB DEVOLEPMENT
-- 📫 reach me ON +918590819731
+this is the frond end portion of medical care system application do it from a private limited company papper fox
 
 <!---
 LBEESS/LBEESS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
